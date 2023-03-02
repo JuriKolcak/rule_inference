@@ -1,0 +1,3 @@
+[submodule "catlib"]
+	path = catlib
+	url = git@git.imada.sdu.dk:novo/catlib.git
